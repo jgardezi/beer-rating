@@ -10,5 +10,7 @@
     "url": "https://github.com/jgardezi/beer-rating.git"
   },
   "dependencies": {
+    "aws-sdk": "^2.6.12",
+    "uuid": "^2.0.3"
   }
 }

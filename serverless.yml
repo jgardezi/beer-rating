@@ -54,7 +54,7 @@ functions:
           path: beer/hello
           method: get
   addRating:
-    handler: handler.getRating
+    handler: handler.addRating
     events:
       - http:
           path: beer/rating
